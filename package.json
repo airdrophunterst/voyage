@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@mysten/sui": "^1.44.0",
+    "@supercharge/promise-pool": "^3.2.0",
+    "async-lock": "^1.4.1",
+    "axios": "^1.8.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "impit": "^0.6.0",
+    "jwt-decode": "^4.0.0",
+    "socks-proxy-agent": "^8.0.5",
+    "user-agents": "^1.1.669",
+    "uuid": "^11.1.0"
+  }
+}
